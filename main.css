@@ -3,7 +3,8 @@ body {
   font-family: "Courier New", Courier, monospace;
 }
 
-.header {
+h1,
+h2 {
   font-family: "League Gothic", sans-serif;
   font-family: "Courier New", Courier, monospace;
 }
